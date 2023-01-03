@@ -1,0 +1,5 @@
+[package]
+name = "unicode-math-class"
+version = "0.1.0"
+authors = ["Laurenz <laurmaedje@gmail.com>"]
+edition = "2021"
