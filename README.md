@@ -1,5 +1,13 @@
 # unicode-math-class
+[![Crates.io](https://img.shields.io/crates/v/unicode-math-class.svg)](https://crates.io/crates/unicode-math-class)
+[![Documentation](https://docs.rs/unicode-math-class/badge.svg)](https://docs.rs/unicode-math-class)
+
 Determine the Unicode class of a mathematical character in Rust.
+
+```toml
+[dependencies]
+unicode-math-class = "0.1"
+```
 
 ## Example
 ```rust
